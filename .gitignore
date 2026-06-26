@@ -1,0 +1,36 @@
+# Cache folders and files
+.cache/
+*cache*
+__pycache__/
+.pytest_cache/
+.eslintcache
+.turbo/
+
+# System-specific files (macOS & Windows)
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+
+# Large dependency directories
+node_modules/
+jspm_packages/
+web_hi_res_512.png
+
+# Development environment & IDE settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Build outputs & temporary files
+dist/
+build/
+out/
+*.log
+*.tmp
+*.bak
