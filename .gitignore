@@ -31,6 +31,8 @@ web_hi_res_512.png
 dist/
 build/
 out/
+.next/
+public/
 *.log
 *.tmp
 *.bak
